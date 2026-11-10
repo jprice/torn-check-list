@@ -1,4 +1,6 @@
 # Torn check list
+
+> **Torn API rule change (2026-11-10):** See [the documented cache, bazaar access, IP and player-rate limits](docs/TORN-API-2026-11-10.md). This is a documentation-only update; no application or collector behavior changed. Market/company global caches were extended to one hour, bounty caches to five minutes, and `user/bazaar` became owner-only.
 GUI application that is using your [Torn City](https://www.torn.com/2531272) API to generate a list of task that you should perform.  
 
 ![image](https://user-images.githubusercontent.com/59464917/137616451-2ab048af-c2de-426a-a9ac-85767e2fff9d.png)
